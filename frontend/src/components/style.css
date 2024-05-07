@@ -1,0 +1,87 @@
+body {
+    background-color: #efeaf5;
+}
+.okvir {
+    padding-bottom: 1%;
+}
+.okvir-odmaknut {
+    margin-top: 3%;
+    padding-bottom: 1%;
+}
+h4 {
+    margin-left: 2%;
+    margin-top: 2%
+}
+.text-nedostupno{
+    text-align: center;
+    font-size: 20px;
+    margin-top: 10%; 
+}
+.text-upozorenja{
+    font-size: 10px;
+    color: red;
+    margin-left: 10px;
+}
+.prozor {
+    margin: auto;
+    margin-top: 2%;
+    text-align: center;
+    border-radius: 5px;
+    padding: 1%;
+    width: 80%;
+    background-color: white;
+    box-shadow: 10px 10px 10px #b4aebc;
+}
+.header {
+    width: 90%;
+    border-bottom: 1px solid gray;
+    font-size: 20px;
+    text-align: center;
+    padding: 2%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2%;
+}
+.tekst {
+    padding-bottom: 1%;
+}
+.table-cont{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center; 
+    margin-top: 3%
+}
+.table-scroll{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center; 
+    margin-top: 3%; 
+    max-height: 280px;
+    overflow-y: scroll;
+}
+.btn-div {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3%;
+    margin-bottom: 5%;
+}
+.search-div{
+    width: 50%; 
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center; 
+    margin-top: 3%; 
+}
+.search-element {
+    border: none;
+    border-radius: 5px;
+    box-shadow: inset 3px 3px 7px #d8d5d5;
+    height: 30px;
+    width: 90%
+}
+.search-element::placeholder {
+    font-size: 22px;
+}

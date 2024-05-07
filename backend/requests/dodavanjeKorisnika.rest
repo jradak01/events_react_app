@@ -1,0 +1,10 @@
+POST http://localhost:3001/api/korisnici
+Content-Type: application/json
+
+{
+    "username" : "radak01",
+    "ime" : "Josipa Radak",
+    "pass" : "tajna",
+    "uloga": "admin",
+    "email": "radak01@gmail.com"
+}

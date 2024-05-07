@@ -1,0 +1,2 @@
+GET http://localhost:3001/api/eventi/62b4d361d8f88e522aa506ef
+Content-Type: application/json

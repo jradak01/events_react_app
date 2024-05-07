@@ -1,0 +1,9 @@
+PUT  http://localhost:3001/api/korisnici/62b4e05446ad110695685a39
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Iml2YW4xMjMiLCJlbWFpbCI6Iml2YW5pdmljQGdtYWlsLmNvbSIsInVsb2dhIjoia29yaXNuaWsiLCJpZCI6IjYyYjRlMDU0NDZhZDExMDY5NTY4NWEzOSIsImlhdCI6MTY1NjA5MjE0NX0.hY8eGQ9fuCPympm_wfsge2xEvB0BuNk49KzaqklMpFw
+
+{
+    "email": "ivanivic1@gmail.com",
+    "pass": "tajna",
+    "staraLozinka" : "novatajna"
+}

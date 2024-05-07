@@ -1,0 +1,15 @@
+POST http://localhost:3001/api/eventi
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Iml2YW4xMjMiLCJlbWFpbCI6Iml2YW5pdmljMUBnbWFpbC5jb20iLCJ1bG9nYSI6ImtvcmlzbmlrIiwiaWQiOiI2MmI0ZTA1NDQ2YWQxMTA2OTU2ODVhMzkiLCJpYXQiOjE2NTYwOTgyNjF9.ELro4P_Me6DQdqsUkMw6cOEkdHh-YMag5LPPAOt84YQ
+
+{
+    "naziv": "Sajam automobila",
+    "tip": "sajam",
+    "mjesto": "Split",
+    "adresa": "Spaladium arena",
+    "vrijeme":  "2022-08-25T23:59:29.516Z",
+    "otvoreno": true,
+    "placanje": true,
+    "cijena": 50,
+    "opis": "Sajam Volvo automobila"
+}

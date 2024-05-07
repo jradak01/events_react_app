@@ -1,0 +1,48 @@
+form {
+    margin: auto;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    width: 500px;
+    display: block;
+    background-color: white;
+    box-shadow: 10px 10px 10px #b4aebc
+}
+.form-div {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1%
+}
+.naslov {
+    text-align: center;
+}
+.input-div {
+    padding: 10px;
+    text-align: left
+}
+.poruka {
+    font-size: 10px;
+    color: red;
+    text-align: left;
+    margin-left: 10px;
+}
+.input-form {
+    border: none;
+    border-radius: 5px;
+    box-shadow: inset 3px 3px 7px #d8d5d5;
+    height: 30px;
+    width: 100%
+}
+.radio-form {
+    margin-left: 10%;
+    height: 18px;
+    width: 18px;
+}
+.btn-div {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3%;
+    margin-bottom: 5%;
+}

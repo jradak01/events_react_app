@@ -1,0 +1,57 @@
+.btn-normal{
+    padding-top: 15px;
+    text-align: center;
+    font-size: 18px;
+    width: 40%;
+    background-color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    box-shadow: inset 3px 3px 7px #d8d5d5
+}
+.btn-leftshadow{
+    padding-top: 15px;
+    text-align: center;
+    font-size: 18px;
+    width: 240px;
+    background-color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    box-shadow: inset 3px 3px 7px #d8d5d5
+}
+.btn-rightshadow{
+    padding-top: 15px;
+    text-align: center;
+    font-size: 18px;
+    width: 240px;
+    background-color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    box-shadow: inset -3px 3px 7px #d8d5d5
+}
+.btn-fullsize {
+    padding-top: 15px;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+    background-color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    box-shadow: inset 3px 3px 7px #d8d5d5
+}
+.btn-clear{
+    background: "none"; 
+    border: "none";
+}
+.btn-clear-blue{
+    font-size: 18px;
+    background-color: none;
+    border: none;
+    color: #4169E1
+}
+.btn-round{
+    border: "none";
+    border-radius: 20px;
+    height: 40px;
+    width: 40px; 
+    font-size: 1rem;
+}
