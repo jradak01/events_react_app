@@ -1,10 +1,8 @@
-# Web aplikacija "Eventi"
+# Web Application "Events"
 
-Web aplikacija koja služi za praćenje eventa (događaja). Korisnik može kreirati, uređivati i brisati vlastite događaje,
-prijavljivati se na događaje drugih korisnika, pretraživati događaje te ocijeniti događaje na kojima je bio. Osim
-prijave za korisnika, postoji i prijava za administratora koji upravlja korisničkim računima i eventima.
+A web application used for tracking events. Users can create, edit, and delete their own events, register for events hosted by other users, search for events, and rate events they have attended. In addition to user authentication, there is also an authentication system for administrators who manage user accounts and events.
 
-Korištene tehnologije:
+Technologies used:
 1. Frontend - React
 2. Backend - Express
-3. Baza podataka - Mongo
+3. Database - MongoDB
